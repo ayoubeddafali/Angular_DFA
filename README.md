@@ -6,6 +6,7 @@ This a simple application that converts a non deterministic finite state machine
 
 ## Notes 
  * Epsilon transition are represented By 'E' 
+
 ## Tools
  * Built with HTML & CSS & JAVASCRIPT .
  * Built With AngulerJS using THE MVC pattern.
