@@ -2,7 +2,7 @@ NFA to DFA Using Angular framework
 
 This a simple application that converts a non deterministic finite state machine  to a deterministic finite state machine 
 
-![alt tag](https://transfer.sh/qvCCA/nfa.png)
+![alt tag](https://transfer.sh/9jVBZ/anim.gif)
 
 ## Tools
  * Built with HTML & CSS & JAVASCRIPT .
